@@ -33,12 +33,12 @@ Este portfólio utiliza uma combinação de tecnologias e práticas que são ess
 
 ## 📂 Projetos em Destaque
 
-1. **Descodificador de Texto**: Foco em criptografia e descriptografia de textos (HTML, CSS, JS).
-2. **E-book iavisual**: Apresentação visual de conteúdos digitais (HTML, CSS, design).
-3. **GraffTee**: Plataforma de arte digital para a trilha Descodificadas.
+1. **Descodificador de Texto**: Foco em criptografia e descriptografia de textos (HTML, CSS, JS) desenvolvido na fase programação do curso ONE.
+2. **E-book iavisual**: Apresentação visual de conteúdos digitais (HTML, CSS, design) desenvolvido no Bootcamp Nexa IA Generativas da DIO.
+3. **GraffTee**: Plataforma de arte digital para a trilha1 do curso Descodificadas.
 4. **Cozinha 20**: Aplicação de receitas no curso Proz.
-5. **Dicionário das Mulheres Negras**: Plataforma de referência sobre mulheres notáveis.
-6. **Fênix Confeitaria**: Site fictício desenvolvido no curso Elias na Tech.
+5. **Dicionário das Mulheres Negras**: Plataforma de referência sobre mulheres notáveis desenvolvido no curso Programaria.
+6. **Fênix Confeitaria**: Site fictício desenvolvido no curso Elas na Tech.
 
 ---
 
